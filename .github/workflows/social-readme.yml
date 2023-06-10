@@ -15,5 +15,3 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://pj568.eu.org/atom.xml
-          blog_limit: 5
-          commit_message: Updated social rss by social-readme
