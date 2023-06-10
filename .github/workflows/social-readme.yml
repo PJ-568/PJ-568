@@ -15,3 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://pj568.eu.org/atom.xml
+          douban_name: PJ568
