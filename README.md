@@ -3,7 +3,7 @@
 <tr>
 <td valign="top">
 
-#### <img height="20" style="margin: -5px 5px;" src="https://pj568.eu.org/images/pj568.webp"/>我是 PJ568 | I am PJ568
+#### <img height="20" style="margin: -5px 5px;" src="https://pj568.eu.org/images/PJ568.svg"/>我是 PJ568 | I am PJ568
 
 </td>
 <td valign="top">
