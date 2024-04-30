@@ -1,4 +1,4 @@
-# <a href="https://PJ568.sbs"><img src="https://blog.pj568.sbs/images/PJ568.svg" width=32/></a> PJ568
+# <a href="https://PJ568.sbs"><img src="https://blog.pj568.sbs/images/PJ568.svg" width=24/></a> PJ568
 
 <a href="https://PJ568.sbs">
     <picture>
